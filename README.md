@@ -13,7 +13,7 @@ A map of modelled road traffic noise (Lden, in dB) in the Munich area, reimagine
 
 The noise levels are symbolised in a watercolor-like style to show that noise does not stop at hard class boundaries, unlike in a general noise map. A dotted layer marks places with two possibilities: modelled noise says Totoro should hide there, but local knowledge suggests these areas (such as parks) are often quieter in real life, so he might still nap or call them home.
 
-- **Data:** [noise data source], Munich area
+- **Data:** OpenStreetMap, Munich area
 - **Tool:** ArcGIS Pro
 - **Note:** Noise levels are modelled estimates, not measurements.
 
